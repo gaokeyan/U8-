@@ -1,0 +1,9 @@
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\bin\Debug\UStock.exe.config
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\obj\x86\Debug\UStock.csprojResolveAssemblyReference.cache
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\obj\x86\Debug\UStock.Form1.resources
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\obj\x86\Debug\UStock.Properties.Resources.resources
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\obj\x86\Debug\UStock.csproj.GenerateResource.Cache
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\bin\Debug\UStock.exe
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\bin\Debug\UStock.pdb
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\obj\x86\Debug\UStock.exe
+C:\Users\gaoky.JRE.001\Desktop\jtktest\UStock\UStock\obj\x86\Debug\UStock.pdb
